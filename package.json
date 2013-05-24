@@ -13,11 +13,6 @@
   "engines": {
     "node": "0.10.x"
   },
-  "dependencies": {
-  },
-  "peerDependencies": {
-    "hapi": "1.x.x"
-  },
   "licenses": [
     {
       "type": "BSD",
