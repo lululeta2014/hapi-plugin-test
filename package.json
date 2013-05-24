@@ -1,0 +1,27 @@
+{
+  "name": "hapi-plugin-test",
+  "description": "Test plugin",
+  "version": "1.0.0",
+  "author": "Eran Hammer <eran@hueniverse.com> (http://hueniverse.com)",
+  "repository": "git://github.com/spumko/hapi-plugin-test",
+  "main": "index",
+  "keywords": [
+    "hapi",
+    "plugin",
+    "test"
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hapi": "1.x.x"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "http://github.com/spumko/hapi-plugin-test/raw/master/LICENSE"
+    }
+  ]
+}
